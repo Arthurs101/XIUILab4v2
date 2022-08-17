@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora de propinas (Arturo Argueta)</string>
+    <string name ="pregunta"> Como estuvo el servicio?</string>
+    <string name="nice"> Asombrosa (20%) </string>
+    <string name="medium">Buena (18%)</string>
+    <string name="goodish">Aceptable (15)</string>
+    <string name="redon">Redondeo de propina</string>
+    <string name="tip"> Ingrese el monto</string>
+    <string name="buttontext">Calculate Tip</string>
+    <string name="propina">Propina resultante: </string>
+</resources>
